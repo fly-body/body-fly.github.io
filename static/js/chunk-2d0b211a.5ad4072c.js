@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b211a"],{2314:function(n,e,a){"use strict";a.r(e);var i=function(){var n=this,e=n._self._c;return e("div",[e("el-card",[e("ul",[e("li",[e("span",[n._v("青春是一个短暂的美梦, 当你醒来时, 它早已消失无踪")]),e("el-divider"),e("span",[n._v("少量的邪恶足以抵消全部高贵的品质, 害得人声名狼藉")])],1)])])],1)},l=[],s={},u=s,c=a("e607"),d=Object(c["a"])(u,i,l,!1,null,"631def73",null);e["default"]=d.exports}}]);
+//# sourceMappingURL=chunk-2d0b211a.5ad4072c.js.map
